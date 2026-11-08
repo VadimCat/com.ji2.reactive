@@ -1,0 +1,10 @@
+{
+  "name": "com.ji2.reactive",
+  "version": "1.0.0",
+  "displayName": "Ji2 Reactive",
+  "description": "Reactive prope, or a little bit more.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Ji2"
+  }
+}
